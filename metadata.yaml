@@ -1,0 +1,29 @@
+_repo: The-Brownies--Their-Book_32210
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32210-h/images/bcover.jpg
+creator:
+  author:
+    agent_name: Cox, Palmer
+    birthdate: 1840
+    deathdate: 1924
+    gutenberg_agent_id: '35178'
+    url: http://www.gutenberg.org/2009/agents/35178
+    wikipedia: http://en.wikipedia.org/wiki/Palmer_Cox
+description: Hordes of grotesque and comical little elves swarm on every page, intent
+  on mischief or merry-making. cf. Children's catalog. H.W. Wilson Co.
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile poetry'
+title: 'The Brownies: Their Book'
+url: http://www.gutenberg.org/ebooks/32210
